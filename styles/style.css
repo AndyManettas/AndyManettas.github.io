@@ -91,9 +91,9 @@ figure {
 
 figure img {
   display: block;
-  max-width: 100%;
-  height: auto;
   width: 24em;
+  max-width: 100%;
+  height: auto; 
 }
 
 footer {
